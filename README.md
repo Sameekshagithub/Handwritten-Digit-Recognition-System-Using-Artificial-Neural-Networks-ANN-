@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition System (ANN + Flask)
+# Handwritten Digit Recognition System Using Artificial Neural Networks (ANN)
 
 A Machine Learning web app that recognizes handwritten digits (0–9) from an
 uploaded image using an Artificial Neural Network trained on the MNIST dataset.
